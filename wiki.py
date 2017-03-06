@@ -6,7 +6,7 @@ import datetime
 
 answer_format = "%m/%d"  # 12/24 -> December 24th
 link_format = "%b_%d"    # 12/24 -> Dec_24
-link = "https://en.wikipedia.com/wiki/{}"
+link = "https://en.wikipedia.org/wiki/{}"
 
 while True:
     answer = input("""What date would you like to look up?
